@@ -1,2 +1,2 @@
 # GameJam_name
-설명
+1학년 소수영
